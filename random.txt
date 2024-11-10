@@ -96,3 +96,23 @@ Call to Action: Align with management for support on initial trials and gather c
 Slide 12: Q&A
 ---------------
 Prompt for Questions: Open the floor for any queries or discussions.
+
+
+Certainly:
+
+1. Transcription Accuracy (WER): Measure transcription precision by calculating Word Error Rate against original spoken content.
+
+
+2. Summarization Quality (ROUGE/BLEU): Evaluate summary coherence and relevance by comparing generated summaries with reference texts.
+
+
+3. Issue Classification Accuracy (F1-Score): Assess model performance in identifying recurring issues using precision, recall, and F1-score.
+
+
+4. Time Allocation Accuracy (MAE): Measure accuracy of estimated time allocation for specific topics by calculating Mean Absolute Error.
+
+
+5. User Satisfaction and Feedback: Gather user feedback to assess the perceived value and effectiveness of summaries and insights.
+
+
+
