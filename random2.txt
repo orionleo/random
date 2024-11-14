@@ -62,10 +62,25 @@ Example: AI-Driven Production Call Optimization in Action
 2. Management Updates: Every 30 minutes, the AI bot sends an automated update to upper management. This update includes the current status, actions taken, and any changes in the issue's resolution progress. For example: "Database outage reported at 10:00 AM. Connectivity restored at 10:45 AM. Monitoring in place to ensure stability. Root cause analysis suggests high query load and network issues." These updates keep management informed without needing to be on the call.
 
 
-3. Automatic Paging of Support Members: As the call progresses, if a specific issue or escalation point is identified—such as a network failure or database issue—the AI bot automatically pages necessary support members (e.g., a database administrator or network engineer) to join the call. This ensures the right experts are engaged in real-time without the team manually tracking them down.
+3. Automatic Paging of Support Members: As the call progresses, if a specific issue or escalation point is identified—such as a network failure or database issue—the AI bot automatically pages necessary support members (e.g., a database administrator or network engineer) to join the call. This ensures the right experts are engaged in real-time without the 
+team manually tracking them down.
 
 
 4. Business Impact Analysis and Statistics: Following the call, the AI generates a report that includes the business impact of the issue. For example, it identifies that the database outage was the fourth incident of the month, with similar root causes linked to high query loads. The report outlines patterns (such as recurring issues related to database capacity or network stability) and offers actionable insights for management to prevent future occurrences. This business impact information is compiled and shared with upper management, helping them make data-driven decisions to improve system reliability and allocate resources effectively.
+
+Subject: Production Issue Update: Database Outage
+
+
+---
+
+Dear [Management],
+
+The database outage impacting customer access has been resolved. Root cause analysis suggests high query load and network latency. This is the fourth such incident this month. Further investigation and monitoring are ongoing. A detailed report will follow shortly.
+
+Best,
+[Your Name]
+
+
 
 
 
