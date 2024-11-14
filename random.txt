@@ -130,6 +130,150 @@ Automatically page relevant support members to join calls when specific issues a
 
 Generate actionable reports on recurring issues and time allocation, supporting continuous process improvement and more efficient issue management.
 
+Here's a refined and detailed workflow for the AI/ML-driven production issue resolution system, with the AI/ML model incorporated:
+
+
+---
+
+1. Production Call Initiation (Frontend - Microsoft Teams)
+
+The AI bot joins a Microsoft Teams production call, actively listening to the ongoing conversation.
+
+All participants can interact with the bot and access updates during the call.
+
+
+
+---
+
+2. Audio Capture & Speech-to-Text Conversion (AI/ML Model - Speech-to-Text)
+
+Speech-to-Text: The AI model continuously transcribes the real-time audio from the call into text.
+
+This transcription serves as the foundation for further analysis by the NLP engine.
+
+
+
+---
+
+3. Natural Language Processing (NLP) and AI Analysis (AI/ML Model - NLP & Text Analysis)
+
+Summarization Engine:
+
+The NLP model analyzes the transcribed text to extract key points and generates concise, real-time summaries (updated every 30 minutes).
+
+The summary includes the ongoing status, actions taken, and any new developments.
+
+
+Time Allocation Analyzer:
+
+The AI identifies and logs time spent on different issues or topics discussed, highlighting areas where delays or bottlenecks occur.
+
+
+Issue Detection & Classification:
+
+Using machine learning algorithms (such as classification models), the system identifies recurring issues (e.g., database or network-related problems) by detecting patterns and keywords in the conversation.
+
+The model categorizes issues based on historical data, determining whether they are related to infrastructure, databases, or other causes.
+
+
+
+
+---
+
+4. Support Paging System (AI/ML Model - Automated Paging)
+
+The AI system automatically identifies when a specialized support team (e.g., database admins, network engineers) is required based on the issues detected.
+
+The system triggers automatic paging, notifying and adding the relevant support members to the call.
+
+
+
+---
+
+5. Data Storage (Backend - Database Storage)
+
+All transcriptions, summaries, and issue logs are stored in a central database for future reference and analysis.
+
+The storage system also retains data on recurring issues, their causes, and resolutions, which can be used for long-term reporting.
+
+
+
+---
+
+6. Reporting & Management Insights (AI/ML Model - Report Generation)
+
+The AI system generates a business impact report that consolidates the issue's frequency, root cause, and potential business impact. For example:
+
+"This is the fourth database-related issue this month, linked to high query load. Impact: 15 minutes of service downtime."
+
+
+These reports are automatically generated and sent to management with the most relevant insights and recommendations for future improvements.
+
+
+
+---
+
+7. Real-Time Notifications (Frontend - Notification System)
+
+Late Joiner Summary: New participants automatically receive a real-time summary when they join the call.
+
+Management Email Updates: Every 30 minutes, the bot sends automated email updates to upper management, providing a detailed overview of the issue's status, actions taken, and business impact.
+
+
+
+---
+
+8. Feedback Loop for AI/ML Model Improvement (AI/ML Model - Feedback and Refinement)
+
+After the call, feedback from team members and management is collected on the accuracy and relevance of the summaries and insights.
+
+This feedback is used to retrain and refine the AI/ML models for continuous improvement in issue detection, summarization, and issue resolution.
+
+
+
+---
+
+Diagram Flow Example:
+
+1. User (Teams UI) → Real-time Audio Capture (via AI Bot) →
+
+
+2. Speech-to-Text Model (Transcription of audio to text) →
+
+
+3. NLP & AI Analysis:
+
+Summarization Engine (Generates real-time summary)
+
+Time Allocation Analyzer (Logs time per issue)
+
+Issue Classification (Detects and categorizes recurring issues)
+
+
+
+4. Paging System (Automatic notification to support team members) →
+
+
+5. Data Storage (Stores transcription, summaries, and issue logs) →
+
+
+6. Automated Reporting System (Generates business impact reports) →
+
+
+7. Management Notification System (Sends updates to management via email) →
+
+
+8. Feedback & AI Model Improvement (Collects feedback and improves models)
+
+
+
+
+---
+
+This workflow shows how each component of the system (from audio capture to reporting) integrates seamlessly, powered by AI/ML models, to provide real-time summaries, issue detection, and automated updates to improve production issue resolution.
+
+
+
 
 
 
