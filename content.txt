@@ -5,3 +5,25 @@ Production issue resolution calls are critical for resolving urgent problems, ye
 The goal is to streamline production issue resolution calls by eliminating inefficiencies caused by manual note-taking, lack of structured updates, and limited visibility for management. To address this, an AI-powered solution integrated with Microsoft Teams can automate real-time transcription and summarization, provide up-to-date summaries to new joiners, and generate insights on recurring issues and time allocation. This will streamline workflows, enhance management visibility, and ultimately improve response times for production issues.
 
 By developing this AI-driven project, we will automate real-time transcription, provide instant summaries for new joiners, and deliver insights on recurring issues and time allocation. This will result in faster, more efficient production issue resolution, improved management visibility, and enhanced overall productivity.
+
+
+
+Here’s the rephrased and grammatically corrected version:
+
+
+---
+
+Resolved the delete issue for duplicate cases in the Webtool and updated the edit query to include additional components.
+
+Tested all cases for edit and delete functionality on a new duplicate record added to the Catdev1 site in the Table Manager module.
+
+Updated the HTML UI input to include Short Description, Long Description, and Additional Data, along with the key-value pair.
+
+The Webtool now successfully deletes duplicate records from the GENERIC DOMAIN table. Additionally, the add and edit functions work correctly for cases with multiple records where all columns match except the Additional Data column.
+
+
+---
+
+Let me know if this works!
+
+
