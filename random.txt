@@ -274,6 +274,19 @@ This workflow shows how each component of the system (from audio capture to repo
 
 
 
+Here’s the revised version with improved grammar and clarity:
+
+Since this is an Asia inventory, it does not wait for BO confirmation.
+Before the cancellation occurs in Impact, we are directly sending the parent and child to allocations.
+As a result, the external status remains "Pending" in Impact while it is in the ParentTradeAction command, and the child allocations are not being canceled.
+The external status is updated to "Cancel" just one second after it has been sent to allocations.
+
+Let me know if you'd like any further adjustments!
+
+
+
+
+
 
 
 
