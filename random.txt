@@ -6,36 +6,21 @@ Your Name/Team: Presented by [Team/Presenter Name]
 
 The product will also automatically page necessary support members to join the call when specific issues are identified, ensuring timely expertise is added to expedite resolution.
 
-
-
-Slide 2: Problem Statement
-----------------------------
-Current Challenges:
-- Inefficiency in real-time note-taking and issue tracking during production calls.
-- Difficulty for late joiners to catch up with the discussion context.
-- Lack of in-depth analysis on time-consuming issues.
-- Limited oversight for management on production issue resolution.
-
-Slide 3: Proposed Solution Overview
--------------------------------------
-Solution: An AI-driven bot integrated with Microsoft Teams that:
-- Joins production calls to listen and generate real-time notes and summaries.
-- Provides a summary update to late joiners upon joining.
-- Analyzes discussions to identify areas where time is spent most.
-- Sends email notifications to management with call updates.
-- Generates reports highlighting recurring issues to inform process improvements.
-
-
-An AI-driven bot joins production calls, listens to discussions, and generates real-time notes and summaries.
-
-Provides a concise summary to late joiners, enabling them to quickly catch up on key points.
-
-Analyzes discussions to identify topics or areas where significant time is spent, helping highlight potential bottlenecks.
-
-Sends management timely updates via automated email notifications, keeping them informed of ongoing call progress and outcomes.
-
-Generates detailed reports highlighting recurring issues, offering insights to support continuous process improvement.
-
+cp -r /tmp/spring-boot-3.4.0.jar springframework/boot/spring-boot/3.4.0
+cp -r /tmp/spring-boot-actuator-3.4.0.jar springframework/boot/spring-boot-actuator/3.4.0
+cp -r /tmp/spring-boot-actuator-autoconfigure-3.4.0.jar springframework/boot/spring-boot-actuator-autoconfigure/3.4.0
+cp -r /tmp/spring-boot-starter-json-3.4.0.jar springframework/boot/spring-boot-starter-json/3.4.0
+cp -r /tmp/spring-boot-starter-tomcat-3.4.0.jar springframework/boot/spring-boot-starter-tomcat/3.4.0
+cp -r /tmp/spring-boot-starter-logging-3.4.0.jar springframework/boot/spring-boot-starter-logging/3.4.0
+cp -r /tmp/spring-boot-starter-thymeleaf-3.4.d.jar springframework/boot/spring-boot-starter-thymeleaf/3.4.d
+cp -r /tmp/spring-security-ac1-6.2.0.jar springframework/security/spring-security-ac1/6.2.0
+cp -r /tmp/spring-security-config-6.2.0.jar springframework/security/spring-security-config/6.2.0
+cp -r /tmp/spring-security-core-6.2.0.jar springframework/security/spring-security-core/6.2.0
+cp -r /tmp/spring-security-crypto-6.2.0.jar springframework/security/spring-security-crypto/6.2.0
+cp -r /tmp/spring-security-web-6.2.0.jar springframework/security/spring-security-web/6.2.0
+cp -r /tmp/spring-security-oauth2-core-6.4.1.jar springframework/security/spring-security-oauth2-core/6.4.1
+cp -r /tmp/spring-security-oauth2-client-6.4.1.jar springframework/security/spring-security-oauth2-client/6.4.1
+cp -r /tmp/spring-security-oauth2-jose-6.4.1.jar springframework/security/spring-security-oauth2-jose/6.4.1
 
 
 Slide 4: How the Bot Works
