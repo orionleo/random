@@ -6,51 +6,6 @@ Your Name/Team: Presented by [Team/Presenter Name]
 
 The product will also automatically page necessary support members to join the call when specific issues are identified, ensuring timely expertise is added to expedite resolution.
 
-cp -r /tmp/spring-boot-3.4.0.jar springframework/boot/spring-boot/3.4.0
-cp -r /tmp/spring-boot-actuator-3.4.0.jar springframework/boot/spring-boot-actuator/3.4.0
-cp -r /tmp/spring-boot-actuator-autoconfigure-3.4.0.jar springframework/boot/spring-boot-actuator-autoconfigure/3.4.0
-cp -r /tmp/spring-boot-starter-json-3.4.0.jar springframework/boot/spring-boot-starter-json/3.4.0
-cp -r /tmp/spring-boot-starter-tomcat-3.4.0.jar springframework/boot/spring-boot-starter-tomcat/3.4.0
-cp -r /tmp/spring-boot-starter-logging-3.4.0.jar springframework/boot/spring-boot-starter-logging/3.4.0
-cp -r /tmp/spring-boot-starter-thymeleaf-3.4.d.jar springframework/boot/spring-boot-starter-thymeleaf/3.4.d
-cp -r /tmp/spring-security-ac1-6.2.0.jar springframework/security/spring-security-ac1/6.2.0
-cp -r /tmp/spring-security-config-6.2.0.jar springframework/security/spring-security-config/6.2.0
-cp -r /tmp/spring-security-core-6.2.0.jar springframework/security/spring-security-core/6.2.0
-cp -r /tmp/spring-security-crypto-6.2.0.jar springframework/security/spring-security-crypto/6.2.0
-cp -r /tmp/spring-security-web-6.2.0.jar springframework/security/spring-security-web/6.2.0
-cp -r /tmp/spring-security-oauth2-core-6.4.1.jar springframework/security/spring-security-oauth2-core/6.4.1
-cp -r /tmp/spring-security-oauth2-client-6.4.1.jar springframework/security/spring-security-oauth2-client/6.4.1
-cp -r /tmp/spring-security-oauth2-jose-6.4.1.jar springframework/security/spring-security-oauth2-jose/6.4.1
-cp -r /tmp/log4j-over-slf4j-2.24.1.jar slf4j/log4j-over-slf4j/2.24.1
-cp -r /tmp/commons-email-1.6.0.jar apache/commons/commons-email/1.6.0
-cp -r /tmp/aspectjrt-1.9.20.jar aspectj/aspectjrt/1.9.20
-cp -r /tmp/aspectjweaver-1.9.20.jar aspectj/aspectjweaver/1.9.20
-cp -r /tmp/slf4j-api-1.7.36.jar slf4j/slf4j-api/1.7.36
-cp -r /tmp/log4j-over-slf4j-1.7.36.jar slf4j/log4j-over-slf4j/1.7.36
-cp -r /tmp/jcl-over-slf4j-1.7.36.jar slf4j/jcl-over-slf4j/1.7.36
-cp -r /tmp/jboss-logging-3.6.1.Final.jar jboss/logging/jboss-logging/3.6.1.Final
-cp -r /tmp/jandex-2.2.3.Final.jar jboss/jandex/2.2.3.Final/jandex-2.2.3.Final
-cp -r /tmp/snakeyaml-2.3.jar yaml/snakeyaml/2.3
-cp -r /tmp/kafka-clients-3.7.1.jar apache/kafka/kafka-clients/3.7.1
-cp -r /tmp/httpclient-4.5.13.jar apache/httpcomponents/httpclient/4.5.13
-cp -r /tmp/httpcore-4.4.13.jar apache/httpcomponents/httpcore/4.4.13
-cp -r /tmp/unbescape-1.1.6.RELEASE.jar unbescape/unbescape/1.1.6.RELEASE
-
-cp -r /tmp/guava-32.1.2-jre.jar google/guava/guava/32.1.2-jre
-cp -r /tmp/ojdbc11-21.9.0.jar oracle/database/jdbc/ojdbc11/21.9.0
-cp -r /tmp/jackson-core-2.15.2.jar fasterxml/jackson/core/jackson-core/2.15.2
-cp -r /tmp/jackson-databind-2.15.2.jar fasterxml/jackson/core/jackson-databind/2.15.2
-cp -r /tmp/snakeyam1-2.3.jar yaml/snakeyam1/2.3
-cp -r /tmp/kafka-clients-3.7.1.jar apache/kafka/kafka-clients/3.7.1
-cp -r /tmp/httpclient-4.5.13.jar apache/httpcomponents/httpclient/4.5.13
-cp -r /tmp/jsr305-3.0.2.jar google/code/findbugs/jsr305/3.0.2
-cp -r /tmp/javaparser-1.8.11.jar google/code/javaparser/javaparser/1.8.11
-cp -r /tmp/jackson-annotations-2.15.2.jar fasterxml/jackson/core/jackson-annotations/2.15.2
-cp -r /tmp/jackson-datatype-joda-2.15.2.jar fasterxml/jackson/datatype/jackson-datatype-joda/2.15.2
-cp -r /tmp/spring-jdbc-6.2.0.jar spring-jdbc/6.2.0
-cp -r /tmp/xercesImpl-2.12.2.jar xerces/xercesImpl/2.12.2
-cp -r /tmp/quickfixj-all-1.5.2.jar quickfixj/quickfixj-all/1.5.2
-cp -r /tmp/commons-beanutils-1.9.4.jar commons-beanutils/commons-beanutils/1.9.4
 
 
 
