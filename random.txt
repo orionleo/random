@@ -6,7 +6,19 @@ Your Name/Team: Presented by [Team/Presenter Name]
 
 The product will also automatically page necessary support members to join the call when specific issues are identified, ensuring timely expertise is added to expedite resolution.
 
+cp -r /tmp/sol-jms-jakarta-10.24.1.jar solacesystems/sol-jms-jakarta/10.24.1
+cp -r /tmp/com.ibm.mq.jakarta.client.jar ibm/mq/com.ibm.mq.jakarta.client
+cp -r /tmp/coherence-14.1.1.0.7.jar oracle/coherence/coherence/14.1.1.0.7
 
+# In /apps/streets/vendorLib/maven-repo
+cp -r /tmp/jakarta.xml.bind-api-4.0.0.jar jakarta/xml/bind/jakarta.xml.bind-api/4.0.0
+cp -r /tmp/jakarta.jms-api-3.0.0.jar jakarta/jms/jakarta.jms-api/3.0.0
+cp -r /tmp/activation-2.0.1.jar jakarta/activation/activation/2.0.1
+cp -r /tmp/xml-apis-1.4.01.jar xml-apis/xml-apis/1.4.01
+
+# In /apps/streets/vendorLib/maven-repo/org
+cp -r /tmp/jaxb-runtime-4.0.3.jar glassfish/jaxb/jaxb-runtime/4.0.3
+cp -r /tmp/jaxb-xjc-3.0.1.jar glassfish/jaxb/jaxb-xjc/3.0.1
 
 
 Slide 4: How the Bot Works
