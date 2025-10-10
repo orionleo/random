@@ -1,11 +1,14 @@
+Here’s a more concise version of your overall self-evaluation summary, keeping it professional and performance-review ready:
 
 
-I aim to continue broadening my technical expertise by exploring new technologies, tools, and frameworks to strengthen my overall delivery capabilities. I would also like to take up more GenAI-related work within the project, along with other initiatives that involve diverse technology stacks to enhance my technical breadth and hands-on experience.
+---
 
-Moving forward, I plan to take a more active role in team discussions and design reviews, contributing ideas and providing greater technical input during decision-making. I remain open to learning and am ready to take on additional responsibilities that support project and team objectives.
+During this review period, I contributed to several key initiatives, including the successful migration of our codebase from Java 8 to Java 17, CTM allocation updates with BBG rounding logic, settlement overrides for AGENCIES/MBS products, and PSET enhancements. I also delivered auto-confirmation workflows for International MO, collaborated with EMEA and APAC teams, and developed new trade communication templates for Paris and Asia-Pacific clients. Additionally, I resolved multiple L3 production issues, supported BCP and 1PCW cutover activities, and contributed to the Data-Innovation Hackathon by integrating Zero-Knowledge Proofs (ZKPs) in a GenAI-based loan automation model.
 
-Over time, my ability to analyze and resolve issues has improved, and I will continue focusing on increasing both speed and accuracy in problem-solving. I also intend to enhance collaboration within the team, particularly across regions, and actively support new joiners by sharing knowledge and helping them integrate effectively into the team environment.
+Going forward, I aim to broaden my technical expertise and take up more GenAI-related work and projects involving varied technology stacks. I plan to contribute more actively in team discussions, enhance problem-solving efficiency, and take on additional responsibilities. I will continue to focus on collaboration across regions and support new joiners through mentoring. All Risk Overlay expectations were met, including timely completion of Develop You trainings, PAD clearance, and maintaining RTO compliance within company guidelines.
 
 
-Risk overlay expectations were met in line with company standards. All mandatory “Develop You” trainings were completed ahead of the deadline, and the required PAD clearance activities were completed as per the defined process. Additionally, my Return to Office (RTO) compliance has been maintained fully within organizational guidelines.
+---
+
+Would you like me to make it sound a bit more achievement-focused (e.g., emphasizing impact or outcomes like efficiency or delivery quality)?
 
